@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Harini</h1>
 <h3 align="center">I'm passionate about blending innovative ideas with advanced technologies, specializing in Unity development for AR/VR and Machine Learning</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=hariniv2907&label=Profile%20views&color=0e75b6&style=flat" alt="hariniv2907" /> </p>
+[![](https://visitcount.itsvg.in/api?id=HariniV2907&label=Profile%20Views&color=5&icon=4&pretty=false)](https://visitcount.itsvg.in)
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=hariniv2907" alt="hariniv2907" /></a> </p>
 
